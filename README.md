@@ -13,3 +13,10 @@ git add arquivo
 git commit -m "O que foi feito"
 git push
 ```
+
+### Operadore lógicos
+| Operador | Função
+|----------|-------
+| &&       | AND
+| \|\|     | OR
+| !        | NOT
