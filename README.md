@@ -6,3 +6,10 @@ Introdução a programação usando a linguagem C.
 gcc -o exec arquivo.c
 ./exec
 ```
+
+### Fluxo básico com GIT
+```bash
+git add arquivo
+git commit -m "O que foi feito"
+git push
+```
