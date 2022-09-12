@@ -3,7 +3,7 @@
 int main()
 {
     int s[10];
-    int x, i, j, cont = 0;
+    int x, i, cont = 0;
 
     for (i = 0; i < 10; i++)
     {
